@@ -4,3 +4,4 @@
 4 Git tracks changes of files.
 5 today I first using git,which found that is very fluent.
 6 Creating a new branch is quick.
+7 Creating a new branch is quick & simple.
